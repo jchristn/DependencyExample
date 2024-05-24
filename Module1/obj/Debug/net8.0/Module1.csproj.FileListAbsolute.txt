@@ -1,0 +1,15 @@
+C:\Code\Misc\DependencyExample\Module1\bin\Debug\net8.0\Module1.deps.json
+C:\Code\Misc\DependencyExample\Module1\bin\Debug\net8.0\Module1.dll
+C:\Code\Misc\DependencyExample\Module1\bin\Debug\net8.0\Module1.pdb
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.csproj.AssemblyReference.cache
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.AssemblyInfoInputs.cache
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.AssemblyInfo.cs
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.csproj.CoreCompileInputs.cache
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.dll
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\refint\Module1.dll
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.pdb
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\ref\Module1.dll
+C:\Code\Misc\DependencyExample\Module1\bin\Debug\net8.0\RestWrapper.dll
+C:\Code\Misc\DependencyExample\Module1\bin\Debug\net8.0\Timestamps.dll
+C:\Code\Misc\DependencyExample\Module1\obj\Debug\net8.0\Module1.csproj.Up2Date
