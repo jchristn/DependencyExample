@@ -2,12 +2,14 @@
 
 Application to show difficulty in using `AssemblyLoadContext`s in environments where the caller and callee have the same dependency but with different versions.
 
+Refer to Stack Overflow question here: https://stackoverflow.com/questions/78529536/assemblyloadcontext-and-dependency-resolving-when-assemblies-and-the-calling-app/78542909#78542909
+
 ## Overview
 
-This solution has three projects:
-- `Runner` - console application, with dependency on RestWrapper 3.0.19
-- `Module1` - class library, with dependency on RestWrapper 3.0.20
-- `Module2` - class library, with dependency on RestWrapper 3.0.18
+This solution has three projects, each with separate version of `RestWrapper`:
+- `Runner` - console application
+- `Module1` - class library
+- `Module2` - class library
 
 All three programs attempt to perform a RESTful call to the user-supplied URL, displaying the resultant HTTP status and content-length.
 
