@@ -9,7 +9,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="RestWrapper" Version="3.0.20" />
+		<PackageReference Include="RestWrapper" Version="3.0.14" />
 	</ItemGroup>
 
 </Project>

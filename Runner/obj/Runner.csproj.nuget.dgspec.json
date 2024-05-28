@@ -52,7 +52,7 @@
           "dependencies": {
             "RestWrapper": {
               "target": "Package",
-              "version": "[3.0.19, )"
+              "version": "[3.0.12, )"
             }
           },
           "imports": [

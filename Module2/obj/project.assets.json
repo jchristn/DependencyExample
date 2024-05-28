@@ -26,18 +26,18 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "RestWrapper/3.0.20": {
+      "RestWrapper/3.0.16": {
         "type": "package",
         "dependencies": {
           "System.Net.Http": "4.3.4",
-          "System.Text.Json": "8.0.3",
-          "Timestamps": "1.0.9"
+          "System.Text.Json": "7.0.3",
+          "Timestamps": "1.0.5"
         },
         "compile": {
-          "lib/net8.0/RestWrapper.dll": {}
+          "lib/net7.0/RestWrapper.dll": {}
         },
         "runtime": {
-          "lib/net8.0/RestWrapper.dll": {}
+          "lib/net7.0/RestWrapper.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
@@ -802,15 +802,15 @@
           }
         }
       },
-      "System.Text.Encodings.Web/8.0.0": {
+      "System.Text.Encodings.Web/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net8.0/System.Text.Encodings.Web.dll": {
+          "lib/net7.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/System.Text.Encodings.Web.dll": {
+          "lib/net7.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
         },
@@ -818,24 +818,24 @@
           "buildTransitive/net6.0/_._": {}
         },
         "runtimeTargets": {
-          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
+          "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll": {
             "assetType": "runtime",
             "rid": "browser"
           }
         }
       },
-      "System.Text.Json/8.0.3": {
+      "System.Text.Json/7.0.3": {
         "type": "package",
         "dependencies": {
-          "System.Text.Encodings.Web": "8.0.0"
+          "System.Text.Encodings.Web": "7.0.0"
         },
         "compile": {
-          "lib/net8.0/System.Text.Json.dll": {
+          "lib/net7.0/System.Text.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
+          "lib/net7.0/System.Text.Json.dll": {
             "related": ".xml"
           }
         },
@@ -871,13 +871,13 @@
           }
         }
       },
-      "Timestamps/1.0.9": {
+      "Timestamps/1.0.5": {
         "type": "package",
         "compile": {
-          "lib/net8.0/Timestamps.dll": {}
+          "lib/net7.0/Timestamps.dll": {}
         },
         "runtime": {
-          "lib/net8.0/Timestamps.dll": {}
+          "lib/net7.0/Timestamps.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -971,10 +971,10 @@
         "runtime.json"
       ]
     },
-    "RestWrapper/3.0.20": {
-      "sha512": "DNQt9DElIGVO7k8UVFK4UMA0jE64ZcnEImMnEK0bwnpuItkPlifOj8kOX48ml7ALjsAX8vdNkysoh7kDrwAgQw==",
+    "RestWrapper/3.0.16": {
+      "sha512": "F2jweL6Uk8/bxKVvls16qYDpV7+P+0pU32EqpqEHsjo7+whpJQdPvlOHb3LdBFHqRS79XfE4neAhebXarG0a+A==",
       "type": "package",
-      "path": "restwrapper/3.0.20",
+      "path": "restwrapper/3.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -985,10 +985,9 @@
         "lib/net48/RestWrapper.dll",
         "lib/net6.0/RestWrapper.dll",
         "lib/net7.0/RestWrapper.dll",
-        "lib/net8.0/RestWrapper.dll",
         "lib/netstandard2.1/RestWrapper.dll",
         "lib/netstandard2.1/RestWrapper.xml",
-        "restwrapper.3.0.20.nupkg.sha512",
+        "restwrapper.3.0.16.nupkg.sha512",
         "restwrapper.nuspec"
       ]
     },
@@ -2882,10 +2881,10 @@
         "system.text.encoding.nuspec"
       ]
     },
-    "System.Text.Encodings.Web/8.0.0": {
-      "sha512": "yev/k9GHAEGx2Rg3/tU6MQh4HGBXJs70y7j1LaM1i/ER9po+6nnQ6RRqTJn1E7Xu0fbIFK80Nh5EoODxrbxwBQ==",
+    "System.Text.Encodings.Web/7.0.0": {
+      "sha512": "OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
       "type": "package",
-      "path": "system.text.encodings.web/8.0.0",
+      "path": "system.text.encodings.web/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2902,31 +2901,27 @@
         "lib/net6.0/System.Text.Encodings.Web.xml",
         "lib/net7.0/System.Text.Encodings.Web.dll",
         "lib/net7.0/System.Text.Encodings.Web.xml",
-        "lib/net8.0/System.Text.Encodings.Web.dll",
-        "lib/net8.0/System.Text.Encodings.Web.xml",
         "lib/netstandard2.0/System.Text.Encodings.Web.dll",
         "lib/netstandard2.0/System.Text.Encodings.Web.xml",
         "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll",
         "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.xml",
         "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll",
         "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.xml",
-        "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll",
-        "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.xml",
-        "system.text.encodings.web.8.0.0.nupkg.sha512",
+        "system.text.encodings.web.7.0.0.nupkg.sha512",
         "system.text.encodings.web.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Text.Json/8.0.3": {
-      "sha512": "hpagS9joOwv6efWfrMmV9MjQXpiXZH72PgN067Ysfr6AWMSD1/1hEcvh/U5mUpPLezEWsOJSuVrmqDIVD958iA==",
+    "System.Text.Json/7.0.3": {
+      "sha512": "AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
       "type": "package",
-      "path": "system.text.json/8.0.3",
+      "path": "system.text.json/7.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "LICENSE.TXT",
-        "PACKAGE.md",
+        "README.md",
         "THIRD-PARTY-NOTICES.TXT",
         "analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll",
         "analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
@@ -2981,11 +2976,9 @@
         "lib/net6.0/System.Text.Json.xml",
         "lib/net7.0/System.Text.Json.dll",
         "lib/net7.0/System.Text.Json.xml",
-        "lib/net8.0/System.Text.Json.dll",
-        "lib/net8.0/System.Text.Json.xml",
         "lib/netstandard2.0/System.Text.Json.dll",
         "lib/netstandard2.0/System.Text.Json.xml",
-        "system.text.json.8.0.3.nupkg.sha512",
+        "system.text.json.7.0.3.nupkg.sha512",
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -3129,10 +3122,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Timestamps/1.0.9": {
-      "sha512": "xdCVp+T4VFXOT+Ube2Cz527fnFXFUxQK24uPMGcCmICIpIcGCXPtI7vKLnWsJ6Nfc1B92tNBK9e/I8NDq2ee6g==",
+    "Timestamps/1.0.5": {
+      "sha512": "FnTSYaaUFx3xi+kidCCS8+Yv4TgQYXTXTDgc9+CwButU/eDQDSJv8r0rX35ivo8UtlkDS8AIdadeDtjU10cB3w==",
       "type": "package",
-      "path": "timestamps/1.0.9",
+      "path": "timestamps/1.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3143,16 +3136,14 @@
         "contentFiles/any/net48/Assets/logo.ico",
         "contentFiles/any/net6.0/Assets/logo.ico",
         "contentFiles/any/net7.0/Assets/logo.ico",
-        "contentFiles/any/net8.0/Assets/logo.ico",
         "contentFiles/any/netstandard2.1/Assets/logo.ico",
         "lib/net462/Timestamps.dll",
         "lib/net48/Timestamps.dll",
         "lib/net6.0/Timestamps.dll",
         "lib/net7.0/Timestamps.dll",
-        "lib/net8.0/Timestamps.dll",
         "lib/netstandard2.1/Timestamps.dll",
         "logo.png",
-        "timestamps.1.0.9.nupkg.sha512",
+        "timestamps.1.0.5.nupkg.sha512",
         "timestamps.nuspec"
       ]
     }
@@ -3160,7 +3151,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.ILLink.Tasks >= 8.0.3",
-      "RestWrapper >= 3.0.20"
+      "RestWrapper >= 3.0.16"
     ]
   },
   "packageFolders": {
@@ -3221,7 +3212,7 @@
           },
           "RestWrapper": {
             "target": "Package",
-            "version": "[3.0.20, )"
+            "version": "[3.0.16, )"
           }
         },
         "imports": [

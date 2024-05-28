@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ebxMTDeFzLmhgIxw1ILpixBGfhTg4FJdPscfW1qGy6qQXUaxEqB6OGJOVkkPkRGEzx/0zvE6V6NJ+/3zG6SFUw==",
+  "dgSpecHash": "mNUAQcJsCs0wwb69Do/rQdJ+lVT4WK4QP8L4+tJP+RXWG9/hr/6vO3t7Bn3yB5pdHNvZuIAELnPNcp9HG1tw7A==",
   "success": true,
   "projectFilePath": "C:\\Code\\Misc\\DependencyExample\\Module2\\Module2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joelc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\restwrapper\\3.0.20\\restwrapper.3.0.20.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\restwrapper\\3.0.16\\restwrapper.3.0.16.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
@@ -53,11 +53,11 @@
     "C:\\Users\\joelc\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\timestamps\\1.0.9\\timestamps.1.0.9.nupkg.sha512"
+    "C:\\Users\\joelc\\.nuget\\packages\\timestamps\\1.0.5\\timestamps.1.0.5.nupkg.sha512"
   ],
   "logs": []
 }
