@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mNUAQcJsCs0wwb69Do/rQdJ+lVT4WK4QP8L4+tJP+RXWG9/hr/6vO3t7Bn3yB5pdHNvZuIAELnPNcp9HG1tw7A==",
+  "dgSpecHash": "QooezgYu+O4=",
   "success": true,
   "projectFilePath": "C:\\Code\\Misc\\DependencyExample\\Module2\\Module2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\joelc\\.nuget\\packages\\restwrapper\\3.0.16\\restwrapper.3.0.16.nupkg.sha512",

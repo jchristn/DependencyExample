@@ -4,6 +4,8 @@ Application to show difficulty in using `AssemblyLoadContext`s in environments w
 
 Refer to Stack Overflow question here: https://stackoverflow.com/questions/78529536/assemblyloadcontext-and-dependency-resolving-when-assemblies-and-the-calling-app/78542909#78542909
 
+**Update 5/28/2024** - the issue has been resolved, and the update is incorporated into this repository.
+
 ## Overview
 
 This solution has three projects, each with separate version of `RestWrapper`:
